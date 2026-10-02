@@ -79,6 +79,12 @@ To preserve strict data lineage, raw baseline sheets are maintained alongside cl
 
 ---
 
+## Data
+
+<img width="822" height="570" alt="image" src="https://github.com/user-attachments/assets/665272f5-789c-4903-8cee-bac19ca0b798" />
+
+
+---
 ## Repository Structure
 
 ```text
@@ -86,3 +92,6 @@ To preserve strict data lineage, raw baseline sheets are maintained alongside cl
 ├── Row_Health_Data_Clean.xlsx      # Cleaned Excel workbook containing raw & clean tabs
 └── docs/
     └── Executive_Dashboard.png     # QBR Tableau Dashboard Overview
+
+
+
