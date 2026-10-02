@@ -78,6 +78,12 @@ To preserve strict data lineage, raw baseline sheets are maintained alongside cl
 3. **Metric Integrity (`campaigns_clean`):** Standardized clicks to whole integers, imputed missing metric cells with zero, and purged 900+ empty grid rows to streamline workbook processing.
 
 ---
+## 📊 Interactive Tableau Dashboard
+
+Access the live interactive dashboard on Tableau Public:
+👉 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/melissa.diego7336/viz/rowhealth_analysis/Dashboard1)**
+
+---
 
 ## Data
 
